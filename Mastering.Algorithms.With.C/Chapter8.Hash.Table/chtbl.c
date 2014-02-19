@@ -114,4 +114,5 @@ int chtbl_lookup(const CHTbl *htbl, void **data){
     
     /* return that the data was not found */
     return -1;
+    /* add some comments here to test the synchronized function */
 }
