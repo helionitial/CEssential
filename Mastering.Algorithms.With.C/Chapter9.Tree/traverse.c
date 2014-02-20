@@ -2,6 +2,7 @@
 #include "list.h"
 #include "traverse.h"
 
+/* very excellent algorithm and coding style */
 /* preorder */
 int preorder(const BiTreeNode *node, List *list){
     /* load the list with a preorder listing of the tree */
